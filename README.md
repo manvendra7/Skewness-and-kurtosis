@@ -1,4 +1,6 @@
-# Skewness-and-kurtosis## WHY DO WE CARE SO MUCH ABOUT NORAMLITY ?
+# Skewness-and-kurtosis 
+
+## WHY DO WE CARE SO MUCH ABOUT NORAMLITY ?
 
 ---
 
